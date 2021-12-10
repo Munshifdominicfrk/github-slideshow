@@ -1,2 +1,7 @@
 
- _posts/0000-01-02-Munshifdominic frk.md
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Hello  world
+Use the left arrow to go back!
